@@ -1,0 +1,9 @@
+[built-system]
+requires = ["hatchling"]
+build-backend = "hatching.build"
+
+[project]
+name = "PPrinciples_utilities"
+version = "0.1"
+
+# current folder: .
